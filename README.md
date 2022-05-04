@@ -4,7 +4,9 @@
 
 ![img](https://i.hizliresim.com/icivg2h.png?raw=true "Title")
 
-![img](https://i.hizliresim.com/pczdtj3.png.png?raw=true "Title")
+![img](https://i.hizliresim.com/baz8s1o.png?raw=true "Title")
+
+![img](https://i.hizliresim.com/pczdtj3.png?raw=true "Title")
 
 ![img](https://i.hizliresim.com/iwhthi8.png?raw=true "Title")
 
