@@ -1,0 +1,39 @@
+body {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(200, 100, 50, 0.8),
+    rgba(60, 20, 150, 0.4)
+  );
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.btn {
+  font-size: 1.5rem;
+  padding: 0;
+  border: none;
+}
+.btn-edit {
+  color: green;
+}
+.btn-trash {
+  color: red;
+}
+
+.bilgi {
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 6px;
+}
+.bilgi-hata {
+  color: white;
+  background-color: red;
+}
+.bilgi-basarili {
+  background-color: green;
+  color: white;
+}
+.fa-solid {
+  pointer-events: none;
+}
